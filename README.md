@@ -44,3 +44,4 @@ etc.
 
 
 https://www.kaggle.com/competitions/stanford-ribonanza-rna-folding
+https://www.kaggle.com/code/abhinavraj111/basic-xg-boost-for-rna-computing
